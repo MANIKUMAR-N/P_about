@@ -1,0 +1,16 @@
+footer {
+	background-color : #c983b7;
+}
+.r {
+	background-color: rgb(193, 240, 83);
+}
+.col5 {
+	background-color: rgb(197, 219, 74);
+	padding: 32px;
+	border-width: 16px;
+}
+.col7 {
+	background-color: rgb(196, 49, 13);
+	padding: 40px;
+	border: 32px;
+}
